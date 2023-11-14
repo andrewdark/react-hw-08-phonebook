@@ -1,7 +1,7 @@
 import { NavLink } from 'react-router-dom';
 import css from './AuthNav.module.css';
 
-const APP_PATH = '/goit-react-hw-08-phonebook';
+const APP_PATH = '/react-hw-08-phonebook';
 export const AuthNav = () => {
   return (
     <div>

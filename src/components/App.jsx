@@ -12,7 +12,7 @@ const RegisterPage = lazy(() => import('../pages/Register'));
 const LoginPage = lazy(() => import('../pages/Login'));
 const ContactsPage = lazy(() => import('../pages/Contacts'));
 
-const APP_PATH = '/goit-react-hw-08-phonebook';
+const APP_PATH = '/react-hw-08-phonebook';
 
 export const App = () => {
   const dispatch = useDispatch();
